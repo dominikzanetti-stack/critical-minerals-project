@@ -1,1 +1,2 @@
-# Critical Elements Project
+# Critical Minerals Project
+This is an interactive tool to get an overview over the elements that have been designated by the US as critical minerals. It aims to give a better structure of the current landscape of mining and refinement and summarize the key industries that would be affected by a disruption of the supply chain
