@@ -1,4 +1,4 @@
-Symbol;Name;AtomicNumber;Category;Description
-Li;Lithium;3;Critical;Essential for lithium-ion batteries in EVs.
-Co;Cobalt;27;Critical;Used in superalloys and battery cathodes.
-La;Lanthanum;57;Rare Earth;Used in camera lenses and hybrid car batteries.
+Symbol;Name;AtomicNumber;Row;Column;Category;Description
+Li;Lithium;3;2;1;Critical;Essential for lithium-ion batteries in EVs.
+Co;Cobalt;27;4;9;Critical;Used in superalloys and battery cathodes.
+La;Lanthanum;57;8;1;Rare Earth;Used in camera lenses and hybrid car batteries.
