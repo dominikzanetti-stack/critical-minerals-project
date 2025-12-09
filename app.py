@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import glob
-from views import display_periodic_table
+from views import display_periodic_table, display_legend
 
 
 st.set_page_config(layout = "wide")
@@ -22,7 +22,9 @@ production = data["production"]
 
 if st.session_state["selected_element"] is None:
 
+    display_legend()
     display_periodic_table(elements)
+    
 
 else:
     st.title(f"{st.session_state["selected_element"]} Details")
