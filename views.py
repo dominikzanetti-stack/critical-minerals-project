@@ -32,7 +32,7 @@ def display_legend():
     c1, c2, c3 = st.columns(3)
     
     with c1:
-        st.markdown("🔴 **Critical Mineral** (USGS 2022)")
+        st.markdown("🔴 **Critical Mineral** (USGS 2025)")
     with c2:
         st.markdown("🔵 **Rare Earth Element**")
     with c3:
